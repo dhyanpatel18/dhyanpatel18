@@ -50,13 +50,12 @@ _FCRIT, Vashi (2022 - 2026)_
 - 🔧 **Postman API Fundamentals** Certificate  
 
 ---
-
 ### 🎓 Projects Highlights
 | Project Name | Description | Tech Stack |
 |-------------|-------------|------------|
-| 🧹 Knowledge Assistant (LLM for M2M) | Built a custom domain-specific LLM assistant for ISRO/MOSDAC data | LangChain, Web Scraping, OpenAI |
-| 🧳 Baggage Counting using YOLOv8/YOLOv11 | Real-time object detection and tracking system for baggage automation | Python, OpenCV, YOLO |
-| 🔥 Forest Fire Predictor | ML-based forest fire simulation and prediction | Python, Regression Models, Flask |
+| 🫀 MedAI - CVD Predictor | A predictive model for cardiovascular disease using patient health data | Next.Js, Python, ML, Pandas, Random Forest model |
+| 🧭 Triping.com | A travel planner web app that suggests optimized trips and itineraries | HTML, CSS, JS,Bootstrap, SQLite |
+
 
 ---
 
