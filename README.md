@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Dhyan Patel! ✨🔥</h1>
+<h3 align="center">Final Year Computer Engineering Student @ FCRIT</h3>
+<p align="center">Passionate about building intelligent web & AI solutions</p>
 
-<!--
-**dhyanpatel18/dhyanpatel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 About Me
+I'm a final-year Computer Engineering student with a passion for intelligent systems and impactful software. I enjoy working on real-world problems using web development, machine learning, and large language models. I'm a fast learner, a team player, and always excited to explore new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I Do
+- 💻 Full Stack Web Development  
+- 🤖 AI/ML and LLM-based Applications  
+- 🎯 Problem Solving and DSA  
+- ⚙️ Computer Vision Projects  
+- 🧪 Experimenting with Emerging Technologies  
+- 🎨 Building Clean and Aesthetic UI/UX  
+
+---
+
+### 🎓 Education
+**B.E. Computer Engineering**  
+_FCRIT, Vashi (2022 - 2026)_  
+- Deep interest in AIML domain and Web Development
+
+---
+
+### 🛠️ Technology Stack
+
+#### 👨‍💻 Languages  
+`C/C++` `Python` `JavaScript` `Java` `SQL`
+
+#### 🌐 Frontend Development  
+`HTML` `CSS` `React` `Bootstrap`
+
+#### 🚀 Backend Development  
+`Node.js` `Flask`
+
+#### 🧠 AI / ML / CV  
+`scikit-learn` `Pandas` `NumPy` `OpenCV` `YOLOv8/YOLOv11` `LangChain` `HuggingFace`
+
+#### 🧰 Tools & DevOps  
+`Git` `GitHub` `Postman` `AWS (EC2)` `Render` `VS Code` `Docker` (Basics)
+
+---
+
+### 🌟 Achievements & Certifications
+- 📅 **Career Essentials in Generative AI** by Microsoft & LinkedIn  
+- 🔧 **Postman API Fundamentals** Certificate  
+
+---
+
+### 🎓 Projects Highlights
+| Project Name | Description | Tech Stack |
+|-------------|-------------|------------|
+| 🧹 Knowledge Assistant (LLM for M2M) | Built a custom domain-specific LLM assistant for ISRO/MOSDAC data | LangChain, Web Scraping, OpenAI |
+| 🧳 Baggage Counting using YOLOv8/YOLOv11 | Real-time object detection and tracking system for baggage automation | Python, OpenCV, YOLO |
+| 🔥 Forest Fire Predictor | ML-based forest fire simulation and prediction | Python, Regression Models, Flask |
+
+---
+
+### 📢 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhyan-patel-b5a23028a/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dhyanbpatel2005@gmail.com)
+
+---
+
+### 🌐 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhyanpatel18&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyanpatel18&layout=compact&theme=radical" width="47%" />
+</p>
+
+---
+
+### ✨ Currently Exploring
+- LLMs & Agentic Workflows  
+- YOLOv11 for Vision Applications  
+- Building a Scalable SaaS App  
+
+---
+
+### 🎨 Fun Quote
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7549C&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New...;Creating+Impactful+Tech...;Let's+Connect+and+Build+Together!"/>
+</p>
