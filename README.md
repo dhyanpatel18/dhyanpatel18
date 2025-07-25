@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Dhyan Patel! ✨🔥</h1>
+<h1 align="center">Hey there, I'm Dhyan Patel! ✨</h1>
 <h3 align="center">Final Year Computer Engineering Student @ FCRIT</h3>
 <p align="center">Passionate about building intelligent web & AI solutions</p>
 
@@ -38,10 +38,10 @@ _FCRIT, Vashi (2022 - 2026)_
 `Node.js` `Flask`
 
 #### 🧠 AI / ML / CV  
-`scikit-learn` `Pandas` `NumPy` `OpenCV` `YOLOv8/YOLOv11` `LangChain` `HuggingFace`
+`scikit-learn` `Pandas` `NumPy` `OpenCV` `YOLOv8/YOLOv11` `HuggingFace`
 
 #### 🧰 Tools & DevOps  
-`Git` `GitHub` `Postman` `AWS (EC2)` `Render` `VS Code` `Docker` (Basics)
+`Git` `GitHub` `Postman` `AWS (EC2)` `Render` `VS Code` `Docker` `MongoDB` `Cloudinary`
 
 ---
 
@@ -53,8 +53,9 @@ _FCRIT, Vashi (2022 - 2026)_
 ### 🎓 Projects Highlights
 | Project Name | Description | Tech Stack |
 |-------------|-------------|------------|
-| 🫀 MedAI - CVD Predictor | A predictive model for cardiovascular disease using patient health data | Next.Js, Python, ML, Pandas, Random Forest model |
-| 🧭 Triping.com | A travel planner web app that suggests optimized trips and itineraries | HTML, CSS, JS,Bootstrap, SQLite |
+|  MedAI - CVD Predictor | A predictive model for cardiovascular disease using patient health data | Next.Js, Python, ML, Pandas, Random Forest model |
+|  Triping.com | A travel planner web app that suggests optimized trips and itineraries | HTML, CSS, JS,Bootstrap, SQLite |
+|  VideoMate | A video streaming web app that is a typical clone of YouTube | HTML, CSS, JS, React, SQLite, MongoDB |
 
 
 ---
@@ -62,14 +63,6 @@ _FCRIT, Vashi (2022 - 2026)_
 ### 📢 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhyan-patel-b5a23028a/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dhyanbpatel2005@gmail.com)
-
----
-
-### 🌐 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhyanpatel18&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyanpatel18&layout=compact&theme=radical" width="47%" />
-</p>
 
 ---
 
